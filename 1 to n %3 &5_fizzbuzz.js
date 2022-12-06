@@ -24,7 +24,7 @@ function fizzBuzz(n) {
     console.log(i);
   }
 }
-fizzBuzz(200);
+fizzBuzz(100);
 
 //0000000000000000000000000000000 Alternate 000000000000000000000000000000000000000
 // function fizzBuzzV2(n) {
